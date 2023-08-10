@@ -1,0 +1,57 @@
+h1 h2 h3{
+    font-family: sans-serif;
+    color:rgb(44, 34, 52);
+}
+
+p{
+    font-size: 30px;
+}
+
+.overview{
+    font-family: sans-serif;
+    color:rgb(216, 24, 24);
+    text-shadow: 0ex;
+    text-align: justify;
+    background-color: antiquewhite;
+    width: 400px;
+    padding: 100px;
+    border: 20px;
+    text-decoration: solid;
+    font-size: 30px;
+    
+}
+
+.ingredients{
+    font-family: sans-serif;
+    color:rgb(216, 24, 24);
+    text-shadow: 0ex;
+    text-align: justify;
+    background-color: antiquewhite;
+    width: 400px;
+    padding: 100px;
+    border: 20px;
+    text-decoration: solid;
+    font-size: 30px;
+}
+.cookingthegravy{
+    font-family: sans-serif;
+    color:rgb(216, 24, 24);
+    text-shadow: 0ex;
+    text-align: justify;
+    background-color: antiquewhite;
+    width: 400px;
+    padding: 100px;
+    border: 20px;
+    text-decoration: solid;
+    font-size: 30px;
+    display: flex;
+    
+}
+#main{
+    width: 400px;
+    height: 100px;
+    border: 1px solid #c3c3c3;
+    display: flex;
+    justify-content: center;
+
+};
